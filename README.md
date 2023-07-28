@@ -9,7 +9,7 @@
 </br>
 📝use as the main
 </br>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 </br>
 📝use at least once
 </br>
@@ -19,5 +19,4 @@
 </br>
 📚studying📚
 </br>
-<img src="https://img.shields.io/badge/Unity-0000?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-0000?style=for-the-badge&logo=unity&logoColor=white">
