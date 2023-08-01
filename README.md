@@ -2,8 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=100&section=header&text=Jiryeong's%20github&fontSize=50)
 </br>
-## Hi👋 꾸준히 하다보면 길이 보이겠죠?
+## Hi👋 
 </br>
+꾸준히 하다보면 길이 보이겠죠?
 💻Tech Stack💻
 </br>
 </br>
