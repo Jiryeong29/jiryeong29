@@ -25,3 +25,8 @@
 📚studying📚
 </br>
 <img src="https://img.shields.io/badge/Unity-0000?style=for-the-badge&logo=unity&logoColor=white">
+
+
+방학 달성 목표
++ KOCW 금오공과대학교 이해연 교수님 강의 완강
++ [C#과 유니티로 만드는 MMORPG 게임 개발 시리즈] Part5: 데이터베이스 강의 완강하기
