@@ -26,10 +26,12 @@
 </br>
 <img src="https://img.shields.io/badge/Unity-0000?style=for-the-badge&logo=unity&logoColor=white">
 
-<div style="text-align: left"> 
- + 방학 달성 목표
+<div style="text-align: left">
+ 
++ 방학 달성 목표
 + KOCW 금오공과대학교 이해연 교수님 강의 완강하기
 + [C#과 유니티로 만드는 MMORPG 게임 개발 시리즈] Part5: 데이터베이스 강의 완강하기
 + 코딩테스트를 위한 자료구조와 알고리즘 with c++ 완독하기
-+ 프로그래머를 위한 선형대수 완독하기 </div>
++ 프로그래머를 위한 선형대수 완독하기
++ </div>
 
