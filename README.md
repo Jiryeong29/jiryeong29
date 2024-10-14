@@ -1,25 +1,23 @@
 <div align="center">
+<!-- Header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+<br><br>
+    
+<!-- Title Typing Effect -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Yujin+Park" alt="Typing SVG" /></a>
+<br>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=100&section=header&text=Jiryeong's%20github&fontSize=50)
-</br>
-## Hi👋 
-</br>
-왕꿈틀이가 되는 그 날까지
+<a href="https://www.naver.com">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=Black"/>
+</a>
 
-</br>
-💻Tech Stack💻
-</br>
-</br>
-📝use as the main
-</br>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-</br>
-📝use at least once
-</br>
-<img src="https://img.shields.io/badge/Unity-0000?style=for-the-badge&logo=unity&logoColor=white">
-</br>
-📚studying📚
-</br>
-자료구조
+<br><br>
+<div align="center">
+<!-- My profile -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujinn00&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+<img src="https://github-readme-stats.vercel.app/api?username=yujinn00&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yujinn00&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
- <div align="left">
+<!-- Footer banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+</div>
